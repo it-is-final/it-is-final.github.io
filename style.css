@@ -1,0 +1,19 @@
+html {
+    background-color: #873e23;
+}
+main {
+    background-color: #efefef;
+    width: 85vw;
+    max-width: 640px;
+    margin: auto;
+    padding: 1rem;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+body {
+    font-family: serif;
+    line-height: 1.25;
+}
