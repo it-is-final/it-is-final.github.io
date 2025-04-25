@@ -1,0 +1,16 @@
+---
+layout: post
+title: Made a new blog
+---
+I have lost track of the number of attempts I have tried to start a new blog.
+This is my first on Jekyll but I have tried to create other ones on different platforms but they did not stick.
+I’ll list out the tools I remember trying in the past for the blog:
+
+- Hugo
+- Zola
+- 11ty (never actually made it the actual GitHub Pages website)
+
+I will likely not post here much but it is nice knowing that I can post here at any time about technical topics that I happen to find interesting enough to post at length.
+
+Oh, and I chose Jekyll just because it feels simple, though I did do the set up inside of WSL rather than install directly on Windows just because I had a bad feeling that installing the stack on Windows would be more difficult than doing it on Linux (though it could also just be me being too worried).
+In fact I set up quite a bit of stuff inside WSL so maybe it’s just natural instinct.
