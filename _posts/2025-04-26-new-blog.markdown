@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Made a new blog
+title:  Made a new blog
+date:   2025-04-26 00:00:00 +1000
 ---
 I have lost track of the number of attempts I have tried to start a new blog.
 This is my first on Jekyll but I have tried to create other ones on different platforms but they did not stick.
